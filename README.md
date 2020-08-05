@@ -13,14 +13,14 @@ Project Steps:
     Step 7: Test Your Algorithm
     
 ### CNN model from scratch
-![CNN Model](CNNmodel.png)
-![CNN Model training](accuracy.png)
+![CNN Model](images/CNNmodel.png)
+![CNN Model training](images/accuracy.png)
 
 ### ResNet50 Transfer learning model
-![ResNet50 Model](ResNet50model.png)
-![TL Model training](accuracy2.png)
+![ResNet50 Model](images/ResNet50model.png)
+![TL Model training](images/accuracy2.png)
 
 ### Results
-![Human image](res1.png)
-![Dog image](res2.png)
-![Sky image](res3.png)
+![Human image](images/res1.png)
+![Dog image](images/res2.png)
+![Sky image](images/res3.png)
